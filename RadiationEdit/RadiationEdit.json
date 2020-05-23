@@ -1,0 +1,13 @@
+{
+  "Radiation zones": [
+    {
+      "Radiation sphere position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Radiation Tier ( 0 - MINIMAL, 1 - LOW, 2 - MEDIUM, 3 - HIGH )": 1,
+      "Radiation amount override": 0.0
+    }
+  ]
+}
